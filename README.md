@@ -9,8 +9,7 @@ olacaktır.
 
 ### Uygulama Hakkında
 
-Bu uygulama c# dilinde Visual Studio kullanılarak yazılmıştır. Uygulamanın amacı öğrencinin belirli bir sayıda soruya göre sınav olmasıdır.
-Uygulama da toplam üç adet sınav bulunmaktadır.
+Bu uygulama c# ile yazılmıştır. Uygulamada ki amaç öğrencinin belirli bir sayısa soruya göre sınav olmasıdır. Öğrenci sınırlı sayıdaki soruyu 3 sınav olacak şekilde cevaplar. Verilen bu cevaplara göre öğrencinin bu 3 sınavdaki başarı oranı grafiklere dökülür.
 
 ### Kurulum
 
